@@ -1,0 +1,47 @@
+version: '3.4'
+
+services:
+  tests:
+    build:
+      context: .
+      target: tests
+    depends_on:
+      - local_mysql
+    networks:
+      - our_network
+  linters:
+    build:
+      context: .
+      target: linters
+    networks:
+      - our_network
+  coverage:
+    build:
+      context: .
+      target: coverage
+    depends_on:
+      - local_mysql
+    networks:
+      - our_network
+  pip_install:
+    build:
+      context: .
+      target: pip_install
+    depends_on:
+      - local_mysql
+    networks:
+      - our_network
+  local_mysql:
+    image: mysql:latest
+    restart: always
+    environment:
+      MYSQL_DATABASE: 'db'
+      MYSQL_USER: 'user'
+      MYSQL_PASSWORD: 'password'
+      MYSQL_ROOT_PASSWORD: 'password'
+    ports:
+      - '3316:3306'
+    networks:
+      - our_network
+networks:
+  our_network:

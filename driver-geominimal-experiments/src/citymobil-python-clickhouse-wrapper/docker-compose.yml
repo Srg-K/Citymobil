@@ -1,0 +1,50 @@
+version: '3.4'
+
+services:
+  tests:
+    build:
+      context: .
+      target: tests
+    depends_on:
+      - local_clickhouse
+    networks:
+      - our_network
+  linters:
+    build:
+      context: .
+      target: linters
+    networks:
+      - our_network
+  coverage:
+    build:
+      context: .
+      target: coverage
+    depends_on:
+      - local_clickhouse
+    networks:
+      - our_network
+  pip_install:
+    build:
+      context: .
+      target: pip_install
+    depends_on:
+      - local_clickhouse
+    networks:
+      - our_network
+  usage_example:
+    build:
+      context: .
+      target: usage_example
+    depends_on:
+      - local_clickhouse
+    networks:
+      - our_network
+  local_clickhouse:
+    image: yandex/clickhouse-server:latest
+    ports:
+      - '9000:9000'
+      - '8123:8123'
+    networks:
+      - our_network
+networks:
+  our_network:

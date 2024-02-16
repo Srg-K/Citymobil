@@ -1,0 +1,4 @@
+newrelic
+pandas
+pymysql
+cryptography

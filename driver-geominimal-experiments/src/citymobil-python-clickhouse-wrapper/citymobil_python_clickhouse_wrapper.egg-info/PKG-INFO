@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: citymobil-python-clickhouse-wrapper
+Version: 0.2.1
+Summary: Our ClickHouse wrapper for Python
+Home-page: git@gitlab.city-srv.ru:public_city/citymobil_python_clickhouse_wrapper.git
+Author: Aleksei Kozlov
+Author-email: a.kozlov@city-mobil.ru
+License: No license. All rights reserved
+Description: UNKNOWN
+Platform: UNKNOWN

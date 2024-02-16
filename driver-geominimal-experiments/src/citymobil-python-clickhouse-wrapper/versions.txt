@@ -1,0 +1,13 @@
+=================================================
+0.2.1 2019.11.20
+* fixed the bug on datetime(python) insert
+* other minor enhances
+=================================================
+0.2.0 2019.11.01
+* added optional logger
+* added create_and_assign_event_loop (for bugs in django)
+* added flag to allow nested event loops (for bugs in jupyter)
+=================================================
+0.1.0 2019.10.11
+initial release
+=================================================

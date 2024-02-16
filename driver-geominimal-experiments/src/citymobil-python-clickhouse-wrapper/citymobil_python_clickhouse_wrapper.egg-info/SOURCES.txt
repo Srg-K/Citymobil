@@ -1,0 +1,10 @@
+setup.py
+citymobil_python_clickhouse_wrapper/__init__.py
+citymobil_python_clickhouse_wrapper/clickhouse_wrapper.py
+citymobil_python_clickhouse_wrapper/clickhouse_wrapper_interface.py
+citymobil_python_clickhouse_wrapper.egg-info/PKG-INFO
+citymobil_python_clickhouse_wrapper.egg-info/SOURCES.txt
+citymobil_python_clickhouse_wrapper.egg-info/dependency_links.txt
+citymobil_python_clickhouse_wrapper.egg-info/not-zip-safe
+citymobil_python_clickhouse_wrapper.egg-info/requires.txt
+citymobil_python_clickhouse_wrapper.egg-info/top_level.txt

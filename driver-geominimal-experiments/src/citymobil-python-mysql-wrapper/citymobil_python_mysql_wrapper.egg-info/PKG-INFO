@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: citymobil-python-mysql-wrapper
+Version: 0.1.0
+Summary: Our MySql wrapper for Python
+Home-page: git@gitlab.city-srv.ru:marketplace/citymobil-python-mysql-wrapper.git
+Author: Aleksei Kozlov
+Author-email: a.kozlov@city-mobil.ru
+License: No license. All rights reserved
+Description: UNKNOWN
+Platform: UNKNOWN

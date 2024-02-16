@@ -1,0 +1,19 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+autopep8 = "*"
+mypy = "*"
+pylint = "*"
+coverage = "*"
+
+[packages]
+pandas = "*"
+newrelic = "*"
+aiochclient = "*"
+nest-asyncio = "*"
+
+[requires]
+python_version = "3.7"
