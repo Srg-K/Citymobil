@@ -1,0 +1,5 @@
+git+https://gitlab+deploy-token-75:hAoek7ygRC_nNkKN83dX@gitlab.city-srv.ru/public_city/citymobil_python_clickhouse_wrapper.git@0.2.4#egg=citymobil_python_clickhouse_wrapper
+git+https://gitlab+deploy-token-83:UVXbZBQUGhLdTgxsxtxy@gitlab.city-srv.ru/public_city/citymobil-python-mysql-wrapper.git@0.2.0#egg=citymobil_python_mysql_wrapper
+scikit-learn==0.22.1
+python-dotenv==0.13.0
+sklearn
