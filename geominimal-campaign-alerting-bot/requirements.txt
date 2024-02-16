@@ -1,0 +1,5 @@
+-e git+https://gitlab+deploy-token-75:hAoek7ygRC_nNkKN83dX@gitlab.city-srv.ru/public_city/citymobil_python_clickhouse_wrapper.git@4f4abcb7a381ecb4210c0299f5b7de72e7136785#egg=citymobil_python_clickhouse_wrapper
+pyexasol
+python-dotenv
+requests
+pandas
