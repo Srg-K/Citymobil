@@ -1,0 +1,10 @@
+git+https://gitlab+deploy-token-75:hAoek7ygRC_nNkKN83dX@gitlab.city-srv.ru/public_city/citymobil_python_clickhouse_wrapper.git@0.2.4#egg=citymobil_python_clickhouse_wrapper
+git+https://gitlab+deploy-token-83:UVXbZBQUGhLdTgxsxtxy@gitlab.city-srv.ru/public_city/citymobil-python-mysql-wrapper.git@0.2.0#egg=citymobil_python_mysql_wrapper
+convertdate==2.3.0
+numpy==1.19.4
+pandas==1.1.4
+plotly==4.12.0
+pyexasol==0.14.3
+python-dotenv==0.15.0
+pystan==2.19.1.1
+fbprophet==0.7.1
