@@ -1,0 +1,326 @@
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)
+INFO:newrelic.core.agent:New Relic Python Agent (6.0.1.155)
+INFO:root:MysqlWrapper::fetch(
+select distinct ID
+from driver_bonus
+where 1=1
+and IS_EXPERIMENT = 1
+and IS_ACTIVE = 1
+
+)

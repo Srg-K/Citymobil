@@ -1,0 +1,7 @@
+-e git+https://gitlab+deploy-token-83:UVXbZBQUGhLdTgxsxtxy@gitlab.city-srv.ru/public_city/citymobil-python-mysql-wrapper.git@a220f2a4203be47a92e1778b1188322d244b4661#egg=citymobil_python_mysql_wrapper
+numpy==1.19.0
+pandas==1.0.5
+scipy==1.5.1
+pyexasol==0.13.1
+python-dotenv==0.14.0
+statsmodels==0.12.1
